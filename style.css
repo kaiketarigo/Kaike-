@@ -1,0 +1,35 @@
+body{
+		background-color: #1c3913
+}
+
+div{
+	
+	display: inline-block;
+
+
+height:400px;
+width:700px;
+}
+#div1{
+	color: rgb(255, 255, 255);
+	font-family:'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana';
+	display: inline;
+	width: 60%;
+	float: left;
+	
+}
+#div2{
+	color: rgb(255, 255, 255);
+	font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana';
+	display: inline;
+	width: 30%;
+	float: right;
+}
+
+
+
+small{
+  color: rgb(255, 255, 255);
+  
+}
+
